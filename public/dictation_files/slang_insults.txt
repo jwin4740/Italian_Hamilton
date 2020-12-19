@@ -1,0 +1,3 @@
+ITALIAN,ENGLISH,TYPE,CATEGORY,IMAGE_URL
+airhead, bro, bastard, bimbo, diva, hack, hippie, stoner, princess, barbie, deadbeat, dope, dork, valley girl,  elitist, loser, Karen, trophy wife, dude, lunatic, cougar, gold digger, queen bee, tomboy, moron, nitwit, racist, nutjob, troll, thug, dweeb, freak, fruitcake, geek, geezer, idiot, hick, klutz, loudmouth, meathead, nerd, nut, psycho, rat, redneck, scum, sicko, tool, imbecile, weirdo, wimp, 
+
