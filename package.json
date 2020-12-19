@@ -1,0 +1,19 @@
+{
+  "name": "italian_hamilton",
+  "version": "1.0.0",
+  "description": "How to learn italian",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwin4740/Italian_Hamilton.git"
+  },
+  "author": "James J Winkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwin4740/Italian_Hamilton/issues"
+  },
+  "homepage": "https://github.com/jwin4740/Italian_Hamilton#readme"
+}
